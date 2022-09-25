@@ -22,7 +22,7 @@ function Nav() {
       <div className="nav_contents">
         <img
           className="nav_logo"
-          src="https://image.photocnc.com/aoaodcom/png/netflix/netflix_PNG11.png?down"
+          src="https://image.photocnc.com/aoaodcom/png/netflix/netflix_PNG11.png"
           alt=""
         />
         {/*  */}
