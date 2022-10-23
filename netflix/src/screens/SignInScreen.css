@@ -38,3 +38,7 @@
 .signinScreen_gray{
   color: gray;
 }
+.signinScreen_link{
+  cursor: pointer;
+  text-decoration: underline;
+}
