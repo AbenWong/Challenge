@@ -30,7 +30,7 @@
 }
 .loginScreen_logo {
   position: fixed;
-  left: 0;
+  left: 3vw;
   width: 150px;
   object-fit: contain;
 }
